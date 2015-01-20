@@ -1,0 +1,67 @@
+---
+layout: default
+---
+<!-- {{ page | debug}} -->
+
+<!-- Create Tags listing -->
+{% if page.tags.size > 0 %}
+    {% capture tags_content %}Posted with {% if page.tags.size == 1 %}<i class="fa fa-tag"></i>{% else %}<i class="fa fa-tags"></i>{% endif %}: {% endcapture %}
+    {% for post_tag in page.tags %}
+		{% assign tag = post_tag %}
+            {% capture tags_content_temp %}{{ tags_content }}<a href="{{ site.baseurl }}/tags/{{ tag }}/">{{ tag }}</a>{% if forloop.last == false %}, {% endif %}{% endcapture %}
+            {% assign tags_content = tags_content_temp %}
+    {% endfor %}
+{% else %}
+    {% assign tags_content = '' %}
+{% endif %}
+
+<!-- Post Header -->
+<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="post-heading">
+                    <h1>{{ page.title }}</h1>
+                    <!--{% if page.subtitle %}
+                    <h2 class="subheading">{{ page.subtitle }}</h2>
+                    {% endif %}-->
+                    <span class="meta">Posted by <a href="{{ page.author | prepend: '/authors/' | prepend: site.baseurl | replace: '//', '/' }}">{{ page.author }}</a> on {{ page.date | date: "%B %-d, %Y" }}</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!-- Post Content -->
+<article>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+				{{ content }}
+
+				<div id="post-meta">{{ tags_content }}</div>
+
+                <ul class="pager">
+                    {% if page.previous.url %}
+                    <li class="previous">
+                        <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
+                    </li>
+                    {% endif %}
+                    {% if page.next.url %}
+                    <li class="next">
+                        <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
+                    </li>
+                    {% endif %}
+                </ul>
+
+				<br/>
+				{% if page.comments == true %}
+				  <section id="disqus_thread"></section><!-- /#disqus_thread -->
+				{% endif %}
+            </div>
+        </div>
+    </div>
+</article>
+
+<hr>

@@ -1,0 +1,22 @@
+# Site settings
+title: Wilderhood
+header-img: img/home-bg.jpg
+email: contact@wilderhood.com
+description: "Travel community app for wildlife enthusiasts and Photographers"
+baseurl: ""
+
+url: "http://wilderhood.com/"
+twitter_username: https://twitter.com/wilderhood
+github_username1:  https://github.com/wilderhood
+facebook_username:  https://www.facebook.com/wilderhood
+googleplay_name: https://play.google.com/store/apps/details?id=com.pixelcloud.wilderhood
+iosappstore_name: https://itunes.apple.com/in/app/wilderhood/id891361776?mt=8&uo=4
+disqus-shortname: wilderhoodblog
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+# permalink: pretty
+relative_permalinks: false
+paginate: 10
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]

@@ -1,0 +1,26 @@
+{% if page.avatar contains 'http' %}
+	<img src="{{ page.avatar }}" class="bio-photo" alt="{{ page.author_name }} bio photo">
+{% else %}
+	<img src="{{  page.avatar | prepend:'/img/' | prepend: site.baseurl | replace: '//', '/' }}" class="bio-photo" alt="{{ page.author_name }} bio photo">
+{% endif %}
+<h3>{{ page.author_name }}</h3>
+<p>{{ page.bio }}</p>
+{% if page.email %}<a href="mailto:{{ page.email }}" class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a>{% endif %}
+{% if page.web %}<a href="{{ page.web }}" class="author-social" target="_blank"><i class="fa fa-fw fa-anchor"></i> Website</a>{% endif %}
+{% if page.twitter %}<a href="http://twitter.com/{{ page.twitter }}" class="author-social" target="_blank"><i class="fa fa-fw fa-twitter-square"></i> Twitter</a>{% endif %}
+{% if page.facebook %}<a href="http://facebook.com/{{ page.facebook }}" class="author-social" target="_blank"><i class="fa fa-fw fa-facebook-square"></i> Facebook</a>{% endif %}
+{% if page.googleplus %}<a href="http://plus.google.com/+{{ page.google.plus }}" class="author-social" target="_blank"><i class="fa fa-fw fa-google-plus-square"></i> Google+</a>{% endif %}
+{% if page.linkedin %}<a href="http://linkedin.com/in/{{ page.linkedin }}" class="author-social" target="_blank"><i class="fa fa-fw fa-linkedin-square"></i> LinkedIn</a>{% endif %}
+{% if page.instagram %}<a href="http://instagram.com/{{ page.instagram }}" class="author-social" target="_blank"><i class="fa fa-fw fa-instagram"></i> Instagram</a>{% endif %}
+{% if page.tumblr %}<a href="http://{{ page.tumblr }}.tumblr.com" class="author-social" target="_blank"><i class="fa fa-fw fa-tumblr-square"></i> Tumblr</a>{% endif %}
+{% if page.github %}<a href="http://github.com/{{ page.github }}" class="author-social" target="_blank"><i class="fa fa-fw fa-github"></i> Github</a>{% endif %}
+{% if page.stackoverflow %}<a href="http://stackoverflow.com/users/{{ page.stackoverflow }}" class="author-social" target="_blank"><i class="fa fa-fw fa-stack-overflow"></i> Stackoverflow</a>{% endif %}
+{% if page.lastfm %}<a href="http://lastfm.com/user/{{ page.lastfm }}" class="author-social" target="_blank"><i class="fa fa-fw fa-music"></i> Last.fm</a>{% endif %}
+{% if page.dribbble %}<a href="http://dribbble.com/{{ page.dribbble }}" class="author-social" target="_blank"><i class="fa fa-fw fa-dribbble"></i> Dribbble</a>{% endif %}
+{% if page.pinterest %}<a href="http://www.pinterest.com/{{ page.pinterest }}" class="author-social" target="_blank"><i class="fa fa-fw fa-pinterest"></i> Pinterest</a>{% endif %}
+{% if page.foursquare %}<a href="http://foursquare.com/{{ page.foursquare }}" class="author-social" target="_blank"><i class="fa fa-fw fa-foursquare"></i> Foursquare</a>{% endif %}
+{% if page.steam %}<a href="http://steamcommunity.com/id/{{ page.steam }}" class="author-social" target="_blank"><i class="fa fa-fw fa-steam-square"></i> Steam</a>{% endif %}
+{% if page.youtube %}<a href="https://youtube.com/user/{{ page.youtube }}" class="author-social" target="_blank"><i class="fa fa-fw fa-youtube-square"></i> Youtube</a>{% endif %}
+{% if page.soundcloud %}<a href="http://soundcloud.com/{{ page.soundcloud }}" class="author-social" target="_blank"><i class="fa fa-fw fa-soundcloud"></i> Soundcloud</a>{% endif %}
+{% if page.weibo %}<a href="http://www.weibo.com/{{ page.weibo }}" class="author-social" target="_blank"><i class="fa fa-fw fa-weibo"></i> Weibo</a>{% endif %}
+{% if page.flickr %}<a href="http://www.flickr.com/{{ page.flickr }}" class="author-social" target="_blank"><i class="fa fa-fw fa-flickr"></i> Flickr</a>{% endif %}
