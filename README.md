@@ -1,5 +1,3 @@
-**Wilderhood blog** - [blog.wilderhood.com](http://blog.wilderhood.com)
-
 **Writing a post**
 
  - Posts are present in _posts folder. One file should be present in _posts folder for every post. 
@@ -44,4 +42,5 @@
  - _posts - all the posts. one file for every post
  - _plugins - this folder will not be considered in github as it wont allow jekyll plugins
  - For testing locally, in a template file add `{{ anyvariable | debug}}` where anyvariable is anything that is valid. Ex:- page
+
 
