@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 **Wilderhood blog** - [blog.wilderhood.com](http://blog.wilderhood.com)
 
 **Writing a post**
@@ -44,7 +43,5 @@
  - _layouts - contains template code which will be customized based on the site/page variables
  - _posts - all the posts. one file for every post
  - _plugins - this folder will not be considered in github as it wont allow jekyll plugins
- - For testing locally, in a template file add `{{ anyvariable | debug}}` where anyvariable is anything that is valid - Ex:- page
-=======
-# wilderhood.github.io
->>>>>>> 5c3fb503811f6132a941eb60cafb499214942300
+ - For testing locally, in a template file add `{{ anyvariable | debug}}` where anyvariable is anything that is valid. Ex:- page
+
