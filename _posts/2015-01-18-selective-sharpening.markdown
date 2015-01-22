@@ -4,7 +4,7 @@ title:      "Selective Sharpening"
 subtitle:   "Selective sharpening in photoshop"
 author:     "Jagadeesh Rampam"
 header-img: "img/2015-01-18/post-bg.jpg"
-tags:       ["Photoshop", "Sharpening"]
+tags:       ["Post Processing", "Tips n Tricks"]
 comments:   true
 ---
 
