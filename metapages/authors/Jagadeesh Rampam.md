@@ -6,7 +6,7 @@ web: http://wilderhood.com
 email:
 bio: "My bio"
 avatar: jagadeesh.jpg
-twitter:
+twitter: https://twitter.com/wilderhood
 googleplus:
 linkedin:
 instagram:
