@@ -3,12 +3,11 @@ layout:     post
 title:      "Selective Sharpening"
 subtitle:   "Selective sharpening in photoshop"
 author:     "Jagadeesh Rampam"
-header-img: "img/2015-01-18/post-bg.jpg"
-tags:       ["PostProcessing", "Tips n Tricks"]
+tags:       ["PostProcessing", "TipsNTricks"]
 comments:   true
 ---
 
-<img src="{{ site.baseurl }}/img/2015-01-18/image002.jpg" alt="Image1">
+<img src="{{ site.baseurl }}/img/2015-01-18/image002.jpg" alt="Banner of the post and finalized image for Gallery in Darter Photography event in Bangalore happened during February 2015">
 
 <p>title of the img, I clicked during my trip to Leh-Ladakh and I have to send this image for one of the galleries in photography exhibition with Darter Photography, Bangalore. IMO, I see there are details missing in monk, so I have worked with Adobe Photoshop to get only the details of monk to highlight!</p>
 
@@ -17,18 +16,18 @@ comments:   true
 <h2 class="section-heading">Step #1</h2>
 <p>Taken the original jpeg image in Photoshop and duplicated the layers, and named them 'sharpening' and 'tonemapped' to work on!</p>
 
-<img src="{{ site.baseurl }}/img/2015-01-18/image004.gif" alt="Image2">
+<img src="{{ site.baseurl }}/img/2015-01-18/image004.gif" alt="Step 1 in Photoshop of the original raw image clicked during Leh Ladakh trip with Darter Photography">
 
 <h2 class="section-heading">Step #2</h2>
 <p>Now, Disabled the tonemapped for now, and started working on sharpening layer. Go to Filter -> Sharpen -> Unsharp Mask. Adjusted Amount to 500% for this image, Radius I do like 4-6 Pixels, and adjusted based on the preview I like to get the details enough I tried to recover!</p>
 
-<img src="{{ site.baseurl }}/img/2015-01-18/image006.gif" alt="Image3">
+<img src="{{ site.baseurl }}/img/2015-01-18/image006.gif" alt="Step 2 in Photoshop using layer mask during selective processing of the image">
 
 <h2 class="section-heading">Step #3</h2>
 <p>Now, once the details have been retrieved enough for me, I started working on tonemapped layer. Create a layer mask, and select the 'Brush' (B) tool, (my settings here: brush size: 700px, Mode: Normal and Opacity: 100%) and start doing the brush on 'Monk' so I could get to see the sharpened image details in the front!</p>
 
-<img src="{{ site.baseurl }}/img/2015-01-18/image008.gif" alt="Image4">
+<img src="{{ site.baseurl }}/img/2015-01-18/image008.gif" alt="Step 3 in Photoshop using layer mask during selective processing of the image">
 
 <p>And here is the final result!!! I'm all set for my submission to the gallery</p>
 
-<img src="{{ site.baseurl }}/img/2015-01-18/image010.jpg" alt="Image5">
+<img src="{{ site.baseurl }}/img/2015-01-18/image010.jpg" alt="Final comparison of selected image before and After for Darter Photography event gallery happened during February 2015, comparison between post processed image before and after">
