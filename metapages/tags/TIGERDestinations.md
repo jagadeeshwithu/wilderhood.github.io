@@ -1,5 +1,5 @@
 ---
 layout: blog_by_tag
-tag: TIGERDestinations
-permalink: tags/TIGERDestinations/
+tag: TigerDestinations
+permalink: tags/TigerDestinations/
 ---
