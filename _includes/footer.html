@@ -80,6 +80,8 @@
 <!-- Custom Theme JavaScript -->
 <script src="{{ "/js/clean-blog.min.js " | prepend: site.baseurl }}"></script>
 
+{% include google_analytics.html %}	
+
 {% if page.comments %}
   {% include disqus_comments.html %}
 {% endif %}
