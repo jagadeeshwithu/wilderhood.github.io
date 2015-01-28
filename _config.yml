@@ -2,16 +2,18 @@
 title: Wilderhood
 header-img: img/home-bg.jpg
 email: contact@wilderhood.com
-description: "Travel community app for wildlife enthusiasts and Photographers"
+description: "Travel community for wildlife and travel destinations in India"
 baseurl: ""
 
-url: "http://wilderhood.com/"
+url: "http://recitals.wilderhood.com"
+#url: "http://127.0.0.1:4000"
 twitter_username: https://twitter.com/wilderhood
 github_username1:  https://github.com/wilderhood
 facebook_username:  https://www.facebook.com/wilderhood
 googleplay_name: https://play.google.com/store/apps/details?id=com.pixelcloud.wilderhood
 iosappstore_name: https://itunes.apple.com/in/app/wilderhood/id891361776?mt=8&uo=4
 disqus-shortname: wilderhoodrecitals
+domain-home: "http://wilderhood.com"
 
 # Build settings
 markdown: kramdown
