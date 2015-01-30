@@ -4,7 +4,7 @@ author_name: Goutham Shankar
 permalink: authors/Goutham Shankar/
 web: http://bookmylens.com
 email: goutham@bookmylens.com
-bio: "an outdoor photographer (specializing in wildlife and portraits), based in Bangalore, India"
+bio: "Hobbyist photographer, Founder bookmylens.com, based in Bangalore, India"
 avatar: goutham.jpg
 twitter: 
 googleplus:
