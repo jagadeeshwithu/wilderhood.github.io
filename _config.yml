@@ -13,7 +13,7 @@ facebook_username:  https://www.facebook.com/wilderhood
 googleplay_name: http://bit.ly/whoodplaystore
 iosappstore_name: http://bit.ly/whooditunes
 disqus-shortname: wilderhoodrecitals
-domain-home: "http://wilderhood.com"
+domain-home: "wilderhood.com"
 
 # Build settings
 markdown: kramdown
