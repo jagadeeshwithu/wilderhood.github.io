@@ -4,7 +4,7 @@ title:      "Ranthambore"
 subtitle:   "Ranthambore wildlife sanctuary is known for its tigers and is one of the best places in India to see these majestic predators in the jungle."
 author:     "Goutham Shankar"
 header-img: "img/2015-01-28/landscape.jpg"
-tags:       ["WildlifeDestination", "TigerDestinations", "Ranthambore"]
+tags:       ["Wildlife Destination", "Tiger Destinations", "Ranthambore"]
 comments:   true
 ---
 
