@@ -4,7 +4,8 @@ author_name: Kesava Murthy
 permalink: authors/Kesava Murthy/
 web: http://birdwing.in
 email: register@birdwing.in
-bio: "Kesava is probably one of the most versatile photographers you’ll meet, whose interests in the craft span across street, landscapes, sports, portraits, weddings, wildlife and macro. He is a qualified naturalist and is building his specialty in arachnology and herpetology. Kesava also brings with him some of the most blessed luck in the wild. Several of our clients explicitly want him to lead our trips – they believe that if Kesava’s on the tour, action can’t be too far."
+bio: "Kesavamurthy is a Bangalore based naturalist and wildlife Photographer.
+He runs a Travel & Photography outfit with the name derived from the beautiful butterfly Birdwing (birdwing.in)"
 avatar: kesava1.jpg
 twitter: 
 googleplus:
