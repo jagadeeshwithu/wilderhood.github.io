@@ -5,7 +5,7 @@ permalink: authors/Shilpa Avate/
 web: 
 email: svs7730@gmail.com
 bio: "Trained dancer, Avid Traveller, explorer, herp lover, Birdie ....."
-avatar: shilpa.jpg
+avatar: Shilpa.jpg
 twitter: 
 googleplus:
 linkedin:
