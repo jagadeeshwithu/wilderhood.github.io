@@ -1,5 +1,5 @@
 ---
 layout: blog_by_tag
-tag: Wildlife Destination
-permalink: tags/Wildlife Destination/
+tag: Wildlife Destinations
+permalink: tags/Wildlife Destinations/
 ---

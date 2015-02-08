@@ -4,7 +4,7 @@ title:      "Amazing Silhouettes."
 subtitle:   "Silhouettes can be a best way to add drama to the scene. We’ll look at some tips on how to make some amazing silhouettes."
 author:     "Kesava Murthy"
 header-img: "img/2015-02-02/silhoutte.jpg"
-tags:       ["African Destinations", "Maasai Maara", "Wildlife Destination"]
+tags:       ["Wildlife Destinations", "African Destinations", "Maasai Maara"]
 comments:   true
 ---
 

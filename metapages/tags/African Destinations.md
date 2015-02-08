@@ -1,5 +1,5 @@
 ---
 layout: blog_by_tag
-tag: AfricanDestinations
+tag: African Destinations
 permalink: tags/African Destinations/
 ---

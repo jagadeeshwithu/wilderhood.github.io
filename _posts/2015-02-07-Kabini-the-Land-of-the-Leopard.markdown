@@ -4,7 +4,7 @@ title:      "Kabini"
 subtitle:   "Kabini (Nagarhole) - A virtual safari through an amazing forest"
 author:     "Shreeram MV"
 header-img: "img/2015-02-07/War-and-Peace1.jpg"
-tags:       ["Wildlife Destination", "Tiger Destinations", "Kabini"]
+tags:       ["Wildlife Destinations", "Tiger Destinations", "Kabini"]
 comments:   true
 ---
 
