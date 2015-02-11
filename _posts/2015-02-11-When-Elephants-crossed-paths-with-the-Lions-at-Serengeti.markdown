@@ -15,7 +15,7 @@ comments:   true
 
 <p>Here’s an attempt at sharing that experience of mine through a short photo story.....</p>
 
-<img src="{{ site.baseurl }}/img/2015-02-11/Lions.jpg">
+<img src="{{ site.baseurl }}/img/2015-02-11/lions.jpg">
 
 <p>It was one late afternoon in the grasslands of Serengeti. We were watching a pride of lions resting near a water hole. It was quite a big pride, with many young cubs and juvenile ones in them. The mothers were busy feeding their cubs, while the little more older cubs were busy playing around. They all seemed to be having some quality family time.</p>
 
