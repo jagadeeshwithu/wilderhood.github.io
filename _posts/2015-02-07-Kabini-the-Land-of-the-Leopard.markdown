@@ -25,4 +25,4 @@ comments:   true
 
 <p>About Kabini - The forest is officially called Nagarhole National Park or Rajiv Gandhi National Park. This Project Tiger Reserve is also part of the larger Nilgiri Biosphere Reserve (that encompasses Bandipur, Mudumalai and Wayanad as well). The name Kabini comes from the river that flows through the park. The Kabini River Lodge (run by Jungle Lodges and Resorts) is located on the banks of the Kabini reservoir. Formerly a private hunting lodge of the Mysore Maharaja, this place has gone through the cycle from being a shikar hotspot to an example of wildlife conservation and organized tourism.</p>
 
-<p>As part of <a href="http://www.darter.in" style="text-decoration:none">Darter Photography</a>, conducts <a href="http://www.darter.in/photography-tours/wildlife/kabini-wildlife-photography-tour/" style="text-decoration:none">trips to Kabini</a> all over the year!
+<p>As part of <a href="http://www.darter.in" style="text-decoration:none">Darter Photography</a>, conducts <a href="http://www.darter.in/photography-tours/wildlife/kabini-wildlife-photography-tour/" style="text-decoration:none">trips to Kabini</a> all over the year!</p>
