@@ -2,8 +2,8 @@
 layout: blog_by_author
 author_name: Shilpa Avate
 permalink: authors/Shilpa Avate/
-web: 
-email: svs7730@gmail.com
+web: http://wilderhood.com
+email: contact@wilderhood.com
 bio: "Trained dancer, Avid Traveller, explorer, herp lover, Birdie ....."
 avatar: Shilpa.jpg
 twitter: 
