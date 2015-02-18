@@ -1,11 +1,11 @@
 ---
 layout: blog_by_author
-author_name: Sharanya Chander
-permalink: authors/Sharanya Chander/
+author_name: Ashwini V Mohan
+permalink: authors/Ashwini V Mohan/
 web: http://wilderhood.com
 email: contact@wilderhood.com
-bio: "an outdoor photographer (specializing in fashion and interior photography), Wildlife enthusiast and avid traveller"
-avatar: Sharanya.jpg
+bio: "an environmental & ecology science grad, nature lover and loves traveling"
+avatar: ashwini.jpg
 twitter: 
 googleplus:
 linkedin:
