@@ -4,7 +4,7 @@ title:      "River terns – a fishy tale"
 subtitle:   "River terns – a fishy tale"
 author:     "Santhosh Krishnamoorthy"
 header-img: "img/2015-02-19/River-terns-the-chase-XL.jpg"
-tags:       ["Wildlife Destinations", "Bhadra"]
+tags:       ["Wildlife Destinations", "Bhadra", "Birding Destinations"]
 comments:   true
 ---
 
