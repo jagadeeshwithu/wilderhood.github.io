@@ -58,7 +58,7 @@ These are again very common kingfishers, we are likely to find these near almost
 <strong>White-Breasted  Kingfisher:</strong>
 <p>These are so common and are likely to be not noticed even if we find them. I did not see them at Zuari, but Mr B.M.Kamath claimed to have seen them on wires during trip. (Including the one shot at Bharathpur)</p>
 
- <img src="{{ site.baseurl }}/img/2015-02-22/Kingfisher.jpg">
+ <img src="{{ site.baseurl }}/img/2015-02-22/kingfisher.jpg">
 
 <strong>Oriental Dwarf Kingfisher: </strong>
 <p>I am yet to see one of these. However forests of Goa are known for presence of these small and extremely beautiful kingfishers. There are records of ODKF at Zuari. </p>
