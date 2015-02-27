@@ -4,7 +4,7 @@ author_name: Chandrasekhar Kalyanasundaram
 permalink: authors/Chandrasekhar Kalyanasundaram/
 web: http://beyondroads.in
 email: support@beyondroads.in
-bio: "Chandrasekhar Kalyanasundaram, Chandru as frineds call him, is a Bangalore based naturalist and wildlife Photographer. He run a Travel & Photography company BeyondRoads and conducts tours to Corbett, Kenya and more....."
+bio: "Chandrasekhar Kalyanasundaram, Chandru as friends call him, is a Bangalore based naturalist and wildlife Photographer. He run a Travel & Photography company BeyondRoads and conducts wildlife tours"
 avatar: Chandrasekhar.jpg
 twitter: 
 googleplus:
