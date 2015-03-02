@@ -4,7 +4,7 @@ author_name: Neha Manohar
 permalink: authors/Neha Manohar/
 web: https://facebook.com/neha.manohar.3
 email: 
-bio: "Aspiring Naturalist, Photographer and Macro Life Lover"
+bio: "Macro Life Lover"
 avatar: Neha.jpg
 twitter: 
 googleplus:
