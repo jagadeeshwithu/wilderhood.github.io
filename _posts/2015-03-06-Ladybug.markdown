@@ -16,7 +16,7 @@ header-img: "img/2015-03-06/img5.jpg"
 Larva crawl out of their eggs and begin to look for food. Ladybug larvae look like tiny alligators- and they bite! After a few days the little larvae begin to grow and soon they shed their skins. This is called "molting" and it happens several times.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-03-06/img1.jpg">
+<img src="{{ site.baseurl }}/img/2015-03-06/img6.jpg">
 
 <p> After a couple of weeks of growing, the larvae will start to change into something that looks like a shrimp. it will attach itself to a leaf and hardly move at all.
 </p>
