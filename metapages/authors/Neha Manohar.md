@@ -2,8 +2,8 @@
 layout: blog_by_author
 author_name: Neha Manohar
 permalink: authors/Neha Manohar/
-web: https://facebook.com/neha.manohar.3
-email: 
+web: http://wilderhood.com
+email: contact@wilderhood.com
 bio: "Macro Life Lover"
 avatar: Neha.jpg
 twitter: 
