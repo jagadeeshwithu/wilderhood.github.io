@@ -5,7 +5,7 @@ subtitle:   "Lady beetle Life cycle (Coccinellidae)"
 author:     "Neha Manohar"
 tags:       ["Macro Life", "Monsoon Destinations"]
 comments:   true
-header-img: "img/2015-03-06/img5.jpg"
+header-img: "img/2015-03-05/img5.jpg"
 
 ---
 
@@ -16,28 +16,28 @@ header-img: "img/2015-03-06/img5.jpg"
 Larva crawl out of their eggs and begin to look for food. Ladybug larvae look like tiny alligators- and they bite! After a few days the little larvae begin to grow and soon they shed their skins. This is called "molting" and it happens several times.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-03-06/img6.jpg">
+<img src="{{ site.baseurl }}/img/2015-03-05/img6.jpg">
 
 <p> After a couple of weeks of growing, the larvae will start to change into something that looks like a shrimp. it will attach itself to a leaf and hardly move at all.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-03-06/img2.jpg">
+<img src="{{ site.baseurl }}/img/2015-03-05/img2.jpg">
 
 <p>When the metamorphosis is complete ,the ladybug splits its pupa and emerges looking very different.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-03-06/img3.jpg">
+<img src="{{ site.baseurl }}/img/2015-03-05/img3.jpg">
 
 <p>For the first few hours the newborn ladybug remains pale and soft.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-03-06/img4.jpg">
+<img src="{{ site.baseurl }}/img/2015-03-05/img4.jpg">
 
 <p>
 It's shell quickly hardens. Its colour becomes brighter. Now it looks just like its mother- a perfect adult ladybug beetle.
 <br><br>What seems like amazing magic is one wonderful way the natural world works; ladybug metamorphosis.
 </p>
 
-<img src="{{ site.baseurl }}/img/2015-03-06/img5.jpg">
+<img src="{{ site.baseurl }}/img/2015-03-05/img5.jpg">
 
 <br>
