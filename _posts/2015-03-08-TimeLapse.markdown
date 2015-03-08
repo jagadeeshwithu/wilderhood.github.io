@@ -14,9 +14,9 @@ disable-header-img: true
 <strong><em>What is Time-lapse Photography?</em></strong>
 
 <p>Time-lapse photography is a cinematography technique whereby the frequency at which film frames are captured (aka the frame rate) is much lower than that which will be used to play the sequence back. </p>
-<p>For e.g., We are manipulating time. Objects and events that would normally take several minutes, days, or even months can be viewed to completion in seconds having been sped up by factors of tens to millions.</p>
+<p><em>For e.g.,</em> We are manipulating time. Objects and events that would normally take several minutes, days, or even months can be viewed to completion in seconds having been sped up by factors of tens to millions.</p>
 
-<strong>The Gears You Need To Tell Your Own Time-lapse Story:</strong>
+<strong>The Gears you needed to tell your own Time-lapse Story:</strong>
 
 <strong>Here are the minimum gear requirements for a new shooter.</strong>
 
