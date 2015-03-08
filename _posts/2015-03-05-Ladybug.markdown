@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Lady beetle Life cycle"
-subtitle:   "Lady beetle Life cycle (Coccinellidae)"
+title:      "Lady Beetle Life cycle"
+subtitle:   "Lady Beetle Life cycle (Coccinellidae)"
 author:     "Neha Manohar"
 tags:       ["Macro Life", "Monsoon Destinations"]
 comments:   true
