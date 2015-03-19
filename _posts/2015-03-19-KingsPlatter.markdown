@@ -10,10 +10,12 @@ header-img: "img/2015-03-19/king14.jpg"
 ---
 
 <p>
-It may be offensive to people if they were named or nicknamed after their eating habits, but that is precisely how our mighty king cobra got its name. King Cobra – Ophiophagus hannah. Ophio means snake and phagus means eating. King cobras are primarily snake eaters but occasionally feed on monitor lizards.
+It may be offensive to people if they were named or nicknamed after their eating habits, but that is precisely how our mighty king cobra got its name. 
 </p>
 
-
+<p>
+<strong>King Cobra</strong> – <em>Ophiophagus hannah</em>. <em>Ophio</em> means snake and <em>phagus</em> means eating. King cobras are primarily snake eaters but occasionally feed on monitor lizards.
+</p>
 
 <p>
 Rat snakes(Ptyas mucosa), Common cobras(Naja naja) and Pythons (Python molurus) are among their well known prey. But the king cobra radio telemetry study in Agumbe made a remarkable discovery where king cobras were observed to be feeding on Malabar pit vipers(Trimeresurus malabaricus) and Humpnosed pit vipers(Hypnale hypnale).Prior to this it was hard to reckon that a 12 feet king cobra would care to expend energy to hunt a 3 feet pit viper for a meal!
