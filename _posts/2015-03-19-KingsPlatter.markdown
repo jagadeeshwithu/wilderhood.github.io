@@ -65,10 +65,6 @@ Hunting and feeding are among the top reasons for human – king cobra conflict.
 King cobra under a shoe rack. The owners thanked their luck for spotting the snake much before they slid their feet into those flip-flops.
 </p>
 
-<p>
- The pumping action helps blood flow through the wings, too. <br><br>It takes about a day for the wings to fully harden, though the butterfly may be flying within an hour or two.
-</p>
-
 <img src="{{ site.baseurl }}/img/2015-03-19/king04.jpg">
 
 <p>
