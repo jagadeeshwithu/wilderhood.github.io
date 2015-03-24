@@ -80,6 +80,12 @@ Has light yellow to cream coloured chevron shaped markings from head to tail
 <img src="{{ site.baseurl }}/img/2015-03-25/blogeggs-and-nest.jpg">
 
 <p>
+<em>Common Cobra </em>: Lays eggs in holes and crevices
+<br><br>
+<em>King Cobra</em>   : Builds a nest to lay eggs
+</p>
+
+<p>
 Summary and few more differences…
 </p>
 
