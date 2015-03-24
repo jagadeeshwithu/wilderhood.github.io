@@ -85,9 +85,9 @@ Has light yellow to cream coloured chevron shaped markings from head to tail
 <em>King Cobra</em>   : Builds a nest to lay eggs
 </p>
 
-<p>
+<strong>
 Summary and few more differences…
-</p>
+</strong>
 
 <img src="{{ site.baseurl }}/img/2015-03-25/table-cobras.png">
 
