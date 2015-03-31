@@ -9,7 +9,7 @@ header-img: "img/2015-03-31/img1.jpg"
 ---
 
 <p>
-In the sun soaked land of Goa, riding on a boat over the tidal waters of the river Zuari, we were looking for birds, more specifically , the kingfishers. That’s when we noticed something hopping up and down on the mudflats, very close to the water’s edge. We thought of taking a diversion and examining as to what it could be. Getting closer, we realized that they were Mudskippers, those lovely amphibious fish. Had always wished to see them and this was my first encounter. The moment I saw them, my heart leapt with excitement and I instantly fell in love with the springy, lively beauties. It was indeed, love at first sight… :-)
+In the sun soaked land of Goa, riding on a boat over the tidal waters of the river Zuari, we were looking for birds, more specifically, the kingfishers. That’s when we noticed something hopping up and down on the mudflats, very close to the water’s edge. We thought of taking a diversion and examining as to what it could be. Getting closer, we realized that they were Mudskippers, those lovely amphibious fish. Had always wished to see them and this was my first encounter. The moment I saw them, my heart leapt with excitement and I instantly fell in love with the springy, lively beauties. It was indeed, love at first sight… :-)
 </p>
 
 <img src="{{ site.baseurl }}/img/2015-03-31/img2.jpg">
@@ -51,7 +51,7 @@ How amazing is that.!..
 </p>
 
 <p>
-When we saw them, there was full on activity going on. Males seemed to be in full glow, very busy , proudly displaying their gorgeous florescent colored fins to impress the females around.
+When we saw them, there was full on activity going. Males seemed to be in full glow, very busy , proudly displaying their gorgeous florescent colored fins to impress the females around.
 </p>
 
 <img src="{{ site.baseurl }}/img/2015-03-31/img4.jpg">
@@ -89,9 +89,9 @@ With some personal one-to-one performances as well………
 <img src="{{ site.baseurl }}/img/2015-03-31/img8.jpg">
 
 <p>
-Indeed, seemed like a lot of effort on the little fish’s part to get his prospective partner to say a ‘yes’
+Indeed, it seemed like a lot of effort on the little fish’s part to get his prospective partner to say a "yes"
 </p>
 
 <p>
-We had spent quite a bit of time with these and it was time for us to move on. But, with so much happening, and I having fallen in love with them :-) , we definitely didn’t want to. However, with a heavy heart and hoping for another date with these lovely little fish, we said adios and headed back on our way!!!! :)
+We had spent quite a bit of time with these and it was time for us to move on. But, with so much happening, and I having fallen in love with them :-) , we definitely didn’t want to!!! However, with a heavy heart and hoping for another date with these lovely little fish, we said adios and headed back on our way :)!!
 </p>
