@@ -1,0 +1,51 @@
+---
+layout:     post
+title:      "Luminous Landscapes (LuLu)"
+subtitle:   "Luminous Landscapes (LuLu)"
+author:     "Sriharsha Ganjam"
+tags:       ["Monsoon Destinations", "Goa Wildlife", "Wildlife Destinations"]
+comments:   true
+header-img: "img/2015-04-02/img4.jpg"
+---
+
+<p>
+Venturing into a dense snake infested jungle in the middle of the night is crazy enough, but doing it without any torch light and amidst pouring rain was truly ridiculous! And that’s what we did, daring into the inky darkness looking for something that fairy tales are made of. It was our maiden expedition into the rain soaked forests of the western ghats looking for the fabled “Luminous Landscapes”
+</p>
+
+<img src="{{ site.baseurl }}/img/2015-04-02/img9.gif">
+
+<p>
+Bioluminescence (BL) is big in these forests and there is no shortage of organisms exhibiting this wonderful phenomenon. Most of us have seen BL through Fireflies and Glow worms, but the phenomenon is not limited to insects alone. This is also prevalent in a range of mushrooms and fungi, and it was our mission to find these on our adventure. The luminous fungus we were after, grow on dead wooden barks making the whole bark or twig glow at night. Working for the Unseen Landscapes we wanted to show the forest floors like they had never been
+shown before, placing the wooden twigs with Luminous Fungi in context to its landscape. Any location with a prominent presence of the fungi had the potential to ignite the entire forest floor and finding such a place was crucial for our success.
+</p>
+
+<p>
+Our quest to find these Forest floors began 4 years ago, and eventually led us to Mhadei National park in the heart of Western Ghats, bordering Karnataka, Goa and Maharashtra. It was a place with perpetual rain during the Monsoons, and the prevalent wet conditions was the key ingredient to foster the growth of these fungi on dead wood logs. I was accompanied by my fellow photographer Ashwini Kumar Bhat, who is an expert in monsoon photography, and it was up to us to find a Landscape photo worthy patch of glowing fungi, and also survive the torrential rain and avoid any nasty bites. This promised to be an exciting adventure even before it had started! On landing at the shoot site we decided to do an initial survey of our surroundings in daylight, it was also a nice opportunity to see the Fungi in day light. To our surprise when our forest guide pointed to some dead twigs on the forest saying they would glow at night, I thought he was joking. Very soon we realised there was absolutely nothing to differentiates a bark which would glow at night from a bark which would not! If it wasn’t for the seasoned eyes of our guide we would have never guessed the true nature of these twigs strewn across the forest floor. We also came to terms with the challenges in store for us.
+</p>
+
+<p>
+The forest floor was incredibly dense with very few opportunities for making a worthy landscape image and the rain and wind were also hard to ignore. Keeping ourselves and the equipment dry and in working condition could not be underestimated. We returned to the spots identified in the evening after dark to see if the luminance of the fungi was anything like what we had hoped. Initially on arrival we did not find any sign of luminance and were close to calling off the search when we realised the reason for us not seeing the fabled glow. We immediately switched off our torches and let our eyes get accustomed to the darkness in the forest. After a couple of minutes in complete darkness our eyes started seeing the faint glow emanating from the barks. Very soon we could see the whole forest floor littered with glowing twigs and it was unlike anything we had seen before! It was a scene straight out of a Fairy Tale!!! Making meaningful images of this however remained a very big challenge.
+</p>
+
+<p>
+We travelled twice to this location in two years to perfect on the technique to capture a beautiful image of the Luminous fungi. Our first visit was more documentary, where we made some test images to work out our exposures. We noticed that making an image of just the glowing barks made little artistic sense unless we included a context to the surroundings. This was tricky as we had to illuminate the entire landscape subtly to bring it into the frame. So on our visit the second year we worked out a new method of illuminating the landscape called “Spray Flashing” where we experimented with multiple flash settings and exposures to arrive at an exposure which would not compromise on the glow and yet would still light up the rest of the forest in a subtle yet beautiful way. Through our experiments with composition and exposure we learned something new every time, and improved on our technique of Spray Flashing on our second visit. Our shoot would usually last from evening 7pm and continue till 3am after which we would return back to base, to catch some much needed sleep and be ready for the next evening. It was literally back breaking work, and walking in the rain and dark looking for promising areas with a good presence of the luminescence was anything but easy. At the end of both these expeditions we felt that we would need to groom our learning from these visits to maximise our output as this was by far one of the trickiest assignments we had ever done! -- <strong> Sriharsha Ganjam /Ashwini Kumar Bhat </strong>
+</p>
+
+<p>
+Our First Expedition (Introducing Luminous Landscapes)
+</p>
+
+<iframe src="https://player.vimeo.com/video/103281573" width="690" height="460" frameborder="0"></iframe>
+
+<p>
+The more collection of Bioluminescence
+</p>
+
+<img src="{{ site.baseurl }}/img/2015-04-02/img1.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-02/img2.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-02/img3.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-02/img4.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-02/img5.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-02/img6.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-02/img7.jpg">
+<img src="{{ site.baseurl }}/img/2015-04-02/img8.jpg">
