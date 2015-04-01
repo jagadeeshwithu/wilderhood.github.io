@@ -4,7 +4,7 @@ title:      "Tal Chappar, Rajasthan"
 subtitle:   "Tal Chappar - Story of a fantastic grassland"
 author:     "Shreeram MV"
 header-img: "img/2015-02-14/Blackbuck-into-the-sun.jpg"
-tags:       ["Wildlife Destinations", "Tal Chappar"]
+tags:       ["Wildlife Destinations", "Tal Chappar", "Black Bucks"]
 comments:   true
 ---
 
