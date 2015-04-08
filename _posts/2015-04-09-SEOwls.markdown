@@ -3,7 +3,7 @@ layout:     post
 title:      "Rendezvous with Short-Eared Owls"
 subtitle:   "Rendezvous with Short-Eared Owls( Little Rann of Kutch )"
 author:     "Bharath Hegde"
-tags:       ["Birding Destinations", "LRK", "Wildlife Destinations"]
+tags:       ["Birding Destinations", "Wildlife Destinations", "LRK", "Raptors"]
 comments:   true
 header-img: "img/2015-04-09/img1.jpg"
 ---
@@ -13,7 +13,7 @@ For me a birding trip to Little Rann of Kutch was not going to be complete witho
 </p>
 
 <p>
-In the recently concluded Darter’s WildWest tour at LRK we spent few hours spread over two days looking for these birds.  We choose a thorny shrub area mainly consisting of Juliflora for our search, where these birds are known to sit and sulk under the canopy of small trees on the ground.  Thanks to amazing spotting by one of the drivers, we managed to see a Short-Eared Owl within few minutes of our search.
+When I participated Darter’s WildWest tour at LRK, we spent few hours spread over two days looking for these birds.  We choose a thorny shrub area mainly consisting of Juliflora for our search, where these birds are known to sit and sulk under the canopy of small trees on the ground.  Thanks to amazing spotting by one of the drivers, we managed to see a Short-Eared Owl within few minutes of our search.
 </p>
 
 <img src="{{ site.baseurl }}/img/2015-04-09/img2.jpg">
