@@ -3,7 +3,7 @@ layout:     post
 title:      "An unforgettable encounter at Agumbe"
 subtitle:   "An unforgettable encounter at Agumbe"
 author:     "Vinodh Ve"
-tags:       ["Monsoon Destinations", "Western Ghats", "Wildlife Destinations", "King Cobra", "Reptiles"]
+tags:       ["Monsoon Destinations", "Western Ghats", "Wildlife Destinations", "King Cobra", "Reptiles", "Agumbe"]
 comments:   true
 header-img: "img/Monsoon.jpg"
 ---

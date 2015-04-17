@@ -3,7 +3,7 @@ layout:     post
 title:      "King Cobras & Common Cobras"
 subtitle:   "We beg to differ....!!!"
 author:     "Gowri Shankar"
-tags:       ["Macro Life", "Monsoon Destinations", "Reptiles", "King Cobra", "Western Ghats"]
+tags:       ["Macro Life", "Monsoon Destinations", "Reptiles", "King Cobra", "Western Ghats", "Agumbe"]
 comments:   true
 disable-header-img : true
 

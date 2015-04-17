@@ -3,7 +3,7 @@ layout:     post
 title:      "Fairy Tale Creatures - Dragon, the flying lizard!"
 subtitle:   "Fairy Tale Creatures - Dragon, the flying lizard!"
 author:     "Vinodh Ve"
-tags:       ["Monsoon Destinations", "Western Ghats", "Wildlife Destinations"]
+tags:       ["Monsoon Destinations", "Western Ghats", "Wildlife Destinations", "Agumbe"]
 comments:   true
 header-img: "img/2015-03-28/img1.jpg"
 ---
