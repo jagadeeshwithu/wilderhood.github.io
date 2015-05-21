@@ -30,7 +30,7 @@ comments:   true
 <img src="{{ site.baseurl }}/img/2015-02-02/silhoutte.jpg" alt="Silhouttes in making in Maasai Maara, Kenya">
 
 
-<p>The shot above was made from last year’s Photography tour to Maasai Mara by <a href="http://birdwing.in" style="text-decoration:none">Birdwing Travel And Photography</a>. The image was shot late evening. The skipper <a href="{{ site.baseurl }}/authors/Kesava Murthy" style="text-decoration:none">Kesava Murthy</a> immediately realised that he wanted to create an image with drama!!! </p>
+<p>The shot above was made from last year’s Photography tour to Maasai Mara by <a href="http://www.wilderhood.com/organizer/Birdwing%20Photography">Birdwing Travel And Photography</a>. The image was shot late evening. The skipper <a href="{{ site.baseurl }}/authors/Kesava Murthy" style="text-decoration:none">Kesava Murthy</a> immediately realised that he wanted to create an image with drama!!! </p>
 
 <p>That is when instead of sun behind the back rule, he took the safari vehicle to opposite side to capture the flying dust from the wildebeest's walk.</p>
 
