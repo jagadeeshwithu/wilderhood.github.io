@@ -17,7 +17,7 @@ The first safari… we started as the last jeep to the park, and the Naturalist 
 </p>
 
 <p>
-During the safaris, he asks for the tiger activities from other jeeps or village people or forest guards he meet on the way, and nods his head for whatever they say. But shockingly, he never goes to those places where they said there could be tigers. We couldn't understand his strategy. At one point, we thought he is scared of tigers. He never stops at a place to observe the activities, unless there is something he finds like Guars or Barking deer. He will be the first one to get out of the forest, at least 10-15 minutes than others. 
+During the safaris, he asks for the tiger activities from other jeeps or village people or forest guards he meet on the way, and nods his head for whatever they say. But shockingly, he never goes to those places where they said there could be tigers. We couldn't understand his strategy. At one point, we thought he is scared of tigers. He never stops at a place to observe the activities, unless there is something he finds like Gaurs or Barking deer. He will be the first one to get out of the forest, at least 10-15 minutes than others. 
 </p>
 
 <p>
