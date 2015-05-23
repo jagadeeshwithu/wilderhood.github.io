@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Tiger luck"
-subtitle:   "Tiger luck"
+subtitle:   "Tiger luck -- Tadoba"
 author:     "Vinodh Ve"
 tags:       ["Tiger Destinations", "Tadoba", "Wildlife Destinations"]
 comments:   true
