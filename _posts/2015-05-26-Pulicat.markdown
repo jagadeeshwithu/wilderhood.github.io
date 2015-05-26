@@ -1,0 +1,53 @@
+---
+layout:     post
+title:      "BIRDING TRIP TO PULICAT"
+subtitle:   "BIRDING TRIP TO PULICAT"
+author:     "Manohara Kamath"
+tags:       ["Birding Destinations", "Wildlife Destinations", "Pulicat"]
+comments:   true
+header-img: "img/2015-05-26/img1.jpg"
+---
+
+
+<h1>
+ABOUT THE LOCATION
+</h1>
+
+
+<p>
+Pulicat lake is the second largest back water lake in India. The lake area is shared between two states of Tamilnadu and Andhra Pradesh. This lake support a rich flora and fauna diversity. Lake also supports commercial fishing in the area. Known for its avifauna the lake supports a large diversity of birds and also acts as a stopover point on migration routes of the birds. The ebird repository lists about 168 bird species listed in recent times in <a href="http://ebird.org/ebird/hotspot/L2357332">Pulicat</a>. Photographing and sighting of the birds have to be done by boating. Some of the boatman in the area are knowledgeable about the birds, but their knowledge is very basic to spotting. The boating in this area is also done in fishing boats and are not very well suited for photography. But if one gets accustomed to the rides you can manage to shoot birds at a very close distances.
+</p>
+
+<img src="{{ site.baseurl }}/img/2015-05-26/img2.jpg">
+
+<h1>
+SIGHTINGS
+</h1>
+
+<p>
+The lake area where sightings are observed are basically in two specific locations. One side is predominantly Flamingo, White Bellied sea eagle (WBSE). We also found Black tailed godwits and Pacific golden plovers in this location. Early morning light and good flock of Flamingos are the best subjects to shoot in mornings. We were lucky to have multiple sightings of the WBSE. Once we are finished shooting Flamingos and WBSE we moved towards Plovers, Sanderlings, Sandpipers, Ruddy Turnstone and Wimbrel.
+</p>
+
+<img src="{{ site.baseurl }}/img/2015-05-26/img3.jpg">
+<img src="{{ site.baseurl }}/img/2015-05-26/img4.jpg">
+<img src="{{ site.baseurl }}/img/2015-05-26/img5.jpg">
+<img src="{{ site.baseurl }}/img/2015-05-26/img6.jpg">
+<img src="{{ site.baseurl }}/img/2015-05-26/img7.jpg">
+<img src="{{ site.baseurl }}/img/2015-05-26/img8.jpg">
+
+<p>
+Terns and Gulls are sighted in different locations in the lake. It is an amazing sight to watch hundreds of them fly around.
+</p>
+
+<img src="{{ site.baseurl }}/img/2015-05-26/img9.jpg">
+<img src="{{ site.baseurl }}/img/2015-05-26/img10.jpg">
+<img src="{{ site.baseurl }}/img/2015-05-26/img11.jpg">
+<img src="{{ site.baseurl }}/img/2015-05-26/img12.jpg">
+<img src="{{ site.baseurl }}/img/2015-05-26/img13.jpg">
+
+<p>
+As a final conclusion, I would like to add this is a must go place in the birding season because it has always thrown surprises in terms of its sightings.
+</p>
+
+<img src="{{ site.baseurl }}/img/2015-05-26/img14.jpg">
+<img src="{{ site.baseurl }}/img/2015-05-26/img15.jpg">
