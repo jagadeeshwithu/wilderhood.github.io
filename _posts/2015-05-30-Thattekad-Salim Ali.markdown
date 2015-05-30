@@ -2,7 +2,7 @@
 layout:     post
 title:      "Thattekad-Salim Ali Bird Santuary"
 subtitle:   "The fight of Navrang"
-author:     "Vinod Ve"
+author:     "Vinodh Ve"
 header-img: "img/2015-05-30/jumping Indian Pitta.jpg"
 tags:       ["Wildlife Destinations","Birding Destinations","Thattekad"]
 comments:   true
