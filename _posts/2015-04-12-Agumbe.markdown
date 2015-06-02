@@ -9,11 +9,11 @@ header-img: "img/Monsoon.jpg"
 ---
 
 <p>
-<strong>Agumbe</strong> - this place is one of my favorite from my childhood, for couple of reasons. I love snakes, not sure from when!!! Of course my favorite snake is the king of snakes - <a href="{{ site.baseurl }}/tags/King%20Cobra" style="text-decoration:none">King Cobra</a>. Agumbe being the King Cobra capital is my primary reason to love this place. The other reason is, I like Malgudi days which was shot in Agumbe's Doddamane. Later, I become a big fan of <a href="{{ site.baseurl }}/authors/Gowri%20Shankar" style="text-decoration:none">Gowri Shankar</a> - the herpetologist I admire the most.
+<strong>Agumbe</strong> - this place is one of my favorite from my childhood, for couple of reasons. I love snakes, not sure from when!!! Of course my favorite snake is the king of snakes - <a href="{{ site.baseurl }}/tags/King%20Cobra" style="text-decoration:none">King Cobra</a>. <a href="http://www.wilderhood.com/destination/Agumbe">Agumbe</a> being the King Cobra capital is my primary reason to love this place. The other reason is, I like Malgudi days which was shot in <a href="http://www.wilderhood.com/destination/Agumbe">Agumbe</a>'s Doddamane. Later, I become a big fan of <a href="{{ site.baseurl }}/authors/Gowri%20Shankar" style="text-decoration:none">Gowri Shankar</a> - the herpetologist I admire the most.
 </p>
 
 <p>
-I am thankful to Shreeram, without whom I wouldn't have enjoyed Agumbe and met Gowri. This is my 4th trip to Agumbe with Shreeram & Gowri. Unusually, this visit was planned on a summer time, to cover the reptile activity during this time. Usually, we visit Agumbe in monsoon. 
+I am thankful to Shreeram, without whom I wouldn't have enjoyed <a href="http://www.wilderhood.com/destination/Agumbe">Agumbe</a> and met Gowri. This is my 4th trip to <a href="http://www.wilderhood.com/destination/Agumbe">Agumbe</a> with Shreeram & Gowri. Unusually, this visit was planned on a summer time, to cover the reptile activity during this time. Usually, we visit <a href="http://www.wilderhood.com/destination/Agumbe">Agumbe</a> in monsoon. 
 </p>
 
 <p>
@@ -21,7 +21,7 @@ Summer is the time when king cobras actively come out searching for mates. That'
 </p>
 
 <p>
-So we reached Agumbe in Gowri's new place - Kalinga Center for Rainforest Ecology (KCRE) early morning. Bird activity was good in the morning. Also, we were greeted by Flying Lizards (Dracos). After a quick breakfast, we headed for macro photography, searching for unique and amazing subjects.
+So we reached <a href="http://www.wilderhood.com/destination/Agumbe">Agumbe</a> in Gowri's new place - Kalinga Center for Rainforest Ecology (KCRE) early morning. Bird activity was good in the morning. Also, we were greeted by Flying Lizards (Dracos). After a quick breakfast, we headed for macro photography, searching for unique and amazing subjects.
 </p>
 
 <p>

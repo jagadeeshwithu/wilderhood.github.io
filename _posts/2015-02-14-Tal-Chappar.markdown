@@ -39,4 +39,4 @@ comments:   true
 
 <p> <strong> About Tal Chapar: </strong> Former hunting grounds of the Maharaja of Bikaner, Tal Chapar is now a protected Wildlife Sanctuary. Tal Chapar can be reached by train/road from Delhi (around 350km) or by road from Jaipur (around 200km). You can stay at the comfortable Forest Rest House adjoining the park.</p>
 
-<p>As part of <a href="http://www.darter.in" style="text-decoration:none">Darter Photography</a>, conducts <a href="http://www.darter.in/photography-tours/wildlife/tal-chapar-photography-tour/" style="text-decoration:none">trips to Tal Chappar</a> all every winter!</p>
+<p>As part of <a href="http://www.wilderhood.com/organizer/Darter%20Photography" style="text-decoration:none">Darter Photography</a>, conducts <a href="http://www.darter.in/photography-tours/wildlife/tal-chapar-photography-tour/" style="text-decoration:none">trips to Tal Chappar</a> all every winter!</p>

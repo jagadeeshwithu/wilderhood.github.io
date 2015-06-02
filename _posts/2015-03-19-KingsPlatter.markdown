@@ -18,7 +18,7 @@ It may be offensive to people if they were named or nicknamed after their eating
 </p>
 
 <p>
-Rat snakes(Ptyas mucosa), Common cobras(Naja naja) and Pythons (Python molurus) are among their well known prey. But the king cobra radio telemetry study in Agumbe made a remarkable discovery where king cobras were observed to be feeding on Malabar pit vipers(Trimeresurus malabaricus) and Humpnosed pit vipers(Hypnale hypnale).Prior to this it was hard to reckon that a 12 feet king cobra would care to expend energy to hunt a 3 feet pit viper for a meal!
+Rat snakes(Ptyas mucosa), Common cobras(Naja naja) and Pythons (Python molurus) are among their well known prey. But the king cobra radio telemetry study in <a href="http://www.wilderhood.com/destination/Agumbe">Agumbe</a> made a remarkable discovery where king cobras were observed to be feeding on Malabar pit vipers(Trimeresurus malabaricus) and Humpnosed pit vipers(Hypnale hypnale).Prior to this it was hard to reckon that a 12 feet king cobra would care to expend energy to hunt a 3 feet pit viper for a meal!
 </p>
 
 <p>

@@ -14,7 +14,7 @@ This happened sometime back. However, it is one of those sightings that stays wi
 </p>
 
 <p>
-This was in November of 2012, the place, the wonderful grasslands of Tal Chapar, in Rajasthan. Was on a birding trip there, with Shreeram of Darter Photography. My first outing to the northern part of India for birding.
+This was in November of 2012, the place, the wonderful grasslands of Tal Chapar, in Rajasthan. Was on a birding trip there, with Shreeram of <a href="http://www.wilderhood.com/organizer/Darter%20Photography">Darter Photography</a>. My first outing to the northern part of India for birding.
 </p>
 
 <p>

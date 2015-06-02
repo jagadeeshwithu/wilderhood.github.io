@@ -11,7 +11,7 @@ comments:   true
 
 <p>This story is about how we spotted a flock of rare geese in India and how easily we could have missed recognizing the rarity of such an event, given the resemblance of these geese to common geese found in the country.</p>
 
-<p>In Dec 2013, we, a small group of people were at <a href="{{ site.baseurl }}/tags/LRK" style="text-decoration:none">Little Rann of Kutch</a> as part of Darter’s wild-west tour. We were exploring various locations for birds and any other form of life.</p>
+<p>In Dec 2013, we, a small group of people were at <a href="{{ site.baseurl }}/tags/LRK" style="text-decoration:none">Little Rann of Kutch</a> as part of <a href="http://www.wilderhood.com/organizer/Darter%20Photography" style="text-decoration:none">Darter Photography</a> wild-west tour. We were exploring various locations for birds and any other form of life.</p>
 
 <h4>Greylag Geese</h4>
 

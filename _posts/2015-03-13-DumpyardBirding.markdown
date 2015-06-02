@@ -19,7 +19,7 @@ This was photographed from one of the terrible “dump-yard” in India, called 
 </p>
 
 <p>
-I visited <a href="{{ site.baseurl }}/tags/Tal Chappar" style="text-decoration:none">Tal Chhapar Blackbuck sanctuary </a>with <a href="{{ site.baseurl }}/authors/Shreeram MV" style="text-decoration:none">Darter</a> during Jan 2013, for photographing the migratory raptors and grassland birds. Tal Chhapar is beautiful grassland and though it is a blackbuck sanctuary, you find wide variety of fauna.  I wanted the experience again, and visited the place again during Nov 2013. As a part of the tour, we visit this “dump-yard” near Bikaner.
+I visited <a href="{{ site.baseurl }}/tags/Tal Chappar" style="text-decoration:none">Tal Chhapar Blackbuck sanctuary </a>with <a href="http://www.wilderhood.com/organizer/Darter%20Photography">Darter Photography</a> during Jan 2013, for photographing the migratory raptors and grassland birds. Tal Chhapar is beautiful grassland and though it is a blackbuck sanctuary, you find wide variety of fauna.  I wanted the experience again, and visited the place again during Nov 2013. As a part of the tour, we visit this “dump-yard” near Bikaner.
 </p>
 
 <img src="{{ site.baseurl }}/img/2015-03-13/img1.jpg">

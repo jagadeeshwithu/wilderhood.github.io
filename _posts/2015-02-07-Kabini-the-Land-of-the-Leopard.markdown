@@ -9,7 +9,7 @@ comments:   true
 ---
 
 
-<p>Kabini – A name that has gained popularity world-over for wildlife lovers. A name that is associated with huge herds of elephants (700+ elephants have been seen on a single evening a few years ago). A name that brings images of charismatic tigers. And of stealthy leopards on trees. And the majestic tiger walking through his realm. Kabini is all this…and a lot more. </p>
+<p><a href="http://www.wilderhood.com/destination/Kabini">Kabini</a> – A name that has gained popularity world-over for wildlife lovers. A name that is associated with huge herds of elephants (700+ elephants have been seen on a single evening a few years ago). A name that brings images of charismatic tigers. And of stealthy leopards on trees. And the majestic tiger walking through his realm. Kabini is all this…and a lot more. </p>
 
 <img src="{{ site.baseurl }}/img/2015-02-07/tigernlandscape.jpg" alt="ESSENCE OF KABINI - Every place has a signature photograph to it. For me, this is the closest it comes for Kabini. The banks of the reservoir, with fresh grass growing at the onset of summer. The beautiful moist deciduous forest all around it. And the majestic animals that define the place - the Tiger and the Elephant.">
 
@@ -25,4 +25,4 @@ comments:   true
 
 <p>About Kabini - The forest is officially called Nagarhole National Park or Rajiv Gandhi National Park. This Project Tiger Reserve is also part of the larger Nilgiri Biosphere Reserve (that encompasses Bandipur, Mudumalai and Wayanad as well). The name Kabini comes from the river that flows through the park. The Kabini River Lodge (run by Jungle Lodges and Resorts) is located on the banks of the Kabini reservoir. Formerly a private hunting lodge of the Mysore Maharaja, this place has gone through the cycle from being a shikar hotspot to an example of wildlife conservation and organized tourism.</p>
 
-<p>As part of <a href="http://www.darter.in" style="text-decoration:none">Darter Photography</a>, conducts <a href="http://www.darter.in/photography-tours/wildlife/kabini-wildlife-photography-tour/" style="text-decoration:none">trips to Kabini</a> all over the year!</p>
+<p>As part of <a href="http://www.wilderhood.com/organizer/Darter%20Photography" style="text-decoration:none">Darter Photography</a>, conducts <a href="http://www.wilderhood.com/destination/Kabini">trips to Kabini</a> all over the year!</p>

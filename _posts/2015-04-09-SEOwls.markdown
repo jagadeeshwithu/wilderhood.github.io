@@ -13,7 +13,7 @@ For me a birding trip to Little Rann of Kutch was not going to be complete witho
 </p>
 
 <p>
-When I participated Darter’s WildWest tour at LRK, we spent few hours spread over two days looking for these birds.  We choose a thorny shrub area mainly consisting of Juliflora for our search, where these birds are known to sit and sulk under the canopy of small trees on the ground.  Thanks to amazing spotting by one of the drivers, we managed to see a Short-Eared Owl within few minutes of our search.
+When I participated <a href="http://www.wilderhood.com/organizer/Darter%20Photography" style="text-decoration:none">Darter Photography</a> for  <a href="http://www.wilderhood.com/trip/Wild%20West%20-%20Wildlife%20Photography%20Tour%20of%20Kutch/22">WildWest tour at LRK</a>, we spent few hours spread over two days looking for these birds.  We choose a thorny shrub area mainly consisting of Juliflora for our search, where these birds are known to sit and sulk under the canopy of small trees on the ground.  Thanks to amazing spotting by one of the drivers, we managed to see a Short-Eared Owl within few minutes of our search.
 </p>
 
 <img src="{{ site.baseurl }}/img/2015-04-09/img2.jpg">
