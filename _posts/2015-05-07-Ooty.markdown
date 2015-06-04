@@ -3,7 +3,7 @@ layout:     post
 title:      "Favourite bird of Nilgiris"
 subtitle:   "Favourite bird of Nilgiris"
 author:     "Vinodh Ve"
-tags:       ["Birding Destinations", "Western Ghats", "Wildlife Destinations"]
+tags:       ["Birding Destinations", "Western Ghats", "Wildlife Destinations", "Travel Destinations"]
 comments:   true
 header-img: "img/2015-05-07/img4.jpg"
 ---
