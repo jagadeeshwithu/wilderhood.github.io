@@ -55,6 +55,9 @@
 <!-- Bootstrap Core JavaScript -->
 <script src="{{ "/js/bootstrap.min.js " | prepend: site.baseurl }}"></script>
 
+<!-- Bootstrap Core JavaScript -->
+<script src="{{ "/js/hogan.min.js " | prepend: site.baseurl }}"></script>
+
 <!-- Custom Theme JavaScript -->
 <script src="{{ "/js/clean-blog.min.js " | prepend: site.baseurl }}"></script>
 
@@ -63,6 +66,8 @@
 {% if page.comments %}
   {% include disqus_comments.html %}
 {% endif %}
+
+<script src="{{ "/js/ads.js " | prepend: site.baseurl }}"></script>
 
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
 <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-54c8ec6563efcfde" async="async"></script>
