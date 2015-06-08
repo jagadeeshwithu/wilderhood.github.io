@@ -43,28 +43,6 @@
                     </li>
                     {% endif %}
                 </ul>
-                <ul class="list-inline text-center">
-                    {% if site.googleplay_name %}
-                    <li>
-                        <a href="{{ site.googleplay_name }}">
-                            <span class="fa-stack fa-lg">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-android fa-stack-1x fa-inverse"></i>
-                            </span>
-                        </a>
-                    </li>
-                    {% endif %}
-                    {% if site.iosappstore_name %}
-                    <li>
-                        <a href="{{ site.iosappstore_name }}">
-                            <span class="fa-stack fa-lg">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-apple fa-stack-1x fa-inverse"></i>
-                            </span>
-                        </a>
-                    </li>
-                    {% endif %}
-                </ul>
                 <p class="copyright text-muted">Copyright &copy; <a href="http://wilderhood.com/" class="copyright text-muted" style="text-decoration: none;">Wilderhood</a> {{ site.time | date: '%Y' }}</p>
             </div>
         </div>
