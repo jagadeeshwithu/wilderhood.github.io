@@ -15,7 +15,7 @@ comments:   true
 
 <p>The Snake God did bless me, for I had the opportunity to learn about snakes from renowned herpetologists like Romulus Whitaker, Gerry Martin and Nirmal Kulkarni. My bedroom walls are covered with snake posters punctuated by Bradley Cooper and Johnny Depp-only to break the monotony. My mother shudders at the thought of entering my room and I curse myself for not thinking of this idea when I was much younger! Sigh!</p>
 
-<p> From time to time I have to have some snake time to rejuvenate my mind and soul. So I made a trip to Agumbe hoping to see some Ophiophagus hannahs (King Cobras) in action</p>
+<p> From time to time I have to have some snake time to rejuvenate my mind and soul. So I made a trip to <a href="http://www.wilderhood.com/destination/Agumbe">Agumbe</a> hoping to see some <em>Ophiophagus hannahs</em> (King Cobras) in action</p>
 
 <img src="{{ site.baseurl }}/img/2015-06-06/1.jpg">
 
