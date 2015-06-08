@@ -560,25 +560,25 @@ a {
   margin-bottom: 0px;
 }
 
-.w-ad-card-holder a
+.w-seo-card-holder a
 {
 	text-decoration: none;
 	color: #404040;
 }
 
-.w-ad-card-holder
+.w-seo-card-holder
 {
 	width: 213px;
     height: 120px;
 	margin-top: 10px;
 }
-.w-ad-image
+.w-seo-image
 {
     height: 83%;
     background-size: cover;
     background-position: center;
 }
-.w-ad-text
+.w-seo-text
 {
     background: grey;
     font-size: 12px;
@@ -589,12 +589,12 @@ a {
 
 @media (max-width: 850px)
 {
-	.w-ad-card-holder {
+	.w-seo-card-holder {
 		width: 140px;
 		height: 80px;
 	}
 
-	.w-ad-text
+	.w-seo-text
 	{
 	    font-size: 8px;
 	}

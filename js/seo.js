@@ -1,6 +1,7 @@
 var adList = [];
-adList.push({link: "http://wilderhood.com", image: "abcd.jpg", text: "Ad Text"});
-adList.push({link: "http://wilderhood.com", image: "abcd.jpg", text: "Ad Text1"});
+adList.push({link: "http://wilderhood.com", image: "Banner.jpg", text: "Ad Text"});
+adList.push({link: "http://wilderhood.com", image: "bml.jpg", text: "Ad Text1"});
+adList.push({link: "http://wilderhood.com", image: "jlr.jpg", text: "Ad Text1"});
 
 function getBaseURL() {
    return location.protocol + "//" + location.hostname + 
@@ -19,11 +20,11 @@ function shuffleArray(array) {
 
 function displayAds()
 {
-	var $adHolderDiv = $("#adHolder");
+	var $adHolderDiv = $("#seoHolder");
 	if(!$adHolderDiv.length)
 		return;
 	
-	var template = $('#adTemplate').html();
+	var template = $('#seoTemplate').html();
 	var compiledTemplate = Hogan.compile(template);
 	
 	//randomize and pick first six
@@ -34,7 +35,7 @@ function displayAds()
 	for(var ii=0; ii<maxCount; ++ii)
 	{
 		var data = randomizedAdList[ii];
-		data.image = getBaseURL() + "img/ads/" + data.image;
+		data.image = getBaseURL() + "img/seo/" + data.image;
 		
 		var renderedTemplate = compiledTemplate.render(data);
 		var divNode = document.createElement("div");
