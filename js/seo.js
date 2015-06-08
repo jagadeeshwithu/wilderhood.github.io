@@ -20,6 +20,7 @@ function shuffleArray(array) {
 
 function displayAds()
 {
+	return;
 	var $adHolderDiv = $("#seoHolder");
 	if(!$adHolderDiv.length)
 		return;
