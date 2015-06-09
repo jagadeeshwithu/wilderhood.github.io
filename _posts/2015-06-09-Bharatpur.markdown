@@ -9,7 +9,7 @@ comments:   true
 ---
 
 
-<p>Photos from Bharatpur captured by several photographers have amazed me for years. The kind of light and studio like setup with a multitude of birds have always been brilliant to watch. I recently had an opportunity to visit Keoladeo National Park in Bharatpur. My wish came true when Birdwing Photography’s (http://www.birdwing.in/) trip to Bharatpur and Chambal was announced.</p>
+<p>Photos from Bharatpur captured by several photographers have amazed me for years. The kind of light and studio like setup with a multitude of birds have always been brilliant to watch. I recently had an opportunity to visit Keoladeo National Park in Bharatpur. My wish came true when <a href="http://www.wilderhood.com/organizer/Birdwing%20Photography">Birdwing Travel And Photography</a> trip to Bharatpur and Chambal was announced.</p>
 
 <p>Once we were there, the light was ideal as it is and I had also hoped to see thousands of birds- a very normal expectation from Bharatpur considering the area's abundance in birds. However, I was told that unlike previous years, this year the number of birds had reduced in great numbers. I was quite surprised to see just a few Painted storks and not a single Pelican! So the ideal studio setup I was anticipating was incomplete without the flying beauties. The landscape however remained stunning as ever, so I did manage to get a few images of the activity in the park and also tried to unravel the beauty of the park through photographs.</p>
 
