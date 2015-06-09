@@ -560,6 +560,12 @@ a {
   margin-bottom: 0px;
 }
 
+.w-seo-sponsored
+{
+	font-family: Menlo,Monaco,Consolas,"Courier New",monospace;
+	font-size: 13px;
+}
+
 .w-seo-card-holder a
 {
 	text-decoration: none;
@@ -571,12 +577,16 @@ a {
 	width: 213px;
     height: 120px;
 	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+    float: none;
 }
 .w-seo-image
 {
     height: 83%;
     background-size: cover;
     background-position: center;
+	display: block;
 }
 .w-seo-text
 {
@@ -585,6 +595,7 @@ a {
 	padding-top: 2px;
 	padding-left: 5px;
     height: 17%;
+	display: block;
 }
 
 @media (max-width: 850px)

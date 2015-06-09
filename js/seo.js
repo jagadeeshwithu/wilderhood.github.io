@@ -3,6 +3,11 @@ adList.push({link: "http://wilderhood.com", image: "Banner.jpg", text: "Ad Text"
 adList.push({link: "http://wilderhood.com", image: "bml.jpg", text: "Ad Text1"});
 adList.push({link: "http://wilderhood.com", image: "jlr.jpg", text: "Ad Text1"});
 
+var sponsoredList = [];
+sponsoredList.push({link: "http://wilderhood.com", image: "Banner.jpg", text: "Ad Text"});
+sponsoredList.push({link: "http://wilderhood.com", image: "bml.jpg", text: "Ad Text1"});
+sponsoredList.push({link: "http://wilderhood.com", image: "jlr.jpg", text: "Ad Text1"});
+
 function getBaseURL() {
    return location.protocol + "//" + location.hostname + 
       (location.port && ":" + location.port) + "/";
@@ -18,9 +23,25 @@ function shuffleArray(array) {
     return array;
 }
 
+function createElementWithString(htmlStr)
+{
+	var divNode = document.createElement("div");
+	divNode.innerHTML = htmlStr;
+	return divNode;
+}
+
+function createElementWithDataObj(data, compiledTemplate)
+{
+	data.image = getBaseURL() + "img/seo/" + data.image;
+	
+	var renderedTemplate = compiledTemplate.render(data);
+	return createElementWithString(renderedTemplate);
+}
+
 function displayAds()
 {
 	return;
+
 	var $adHolderDiv = $("#seoHolder");
 	if(!$adHolderDiv.length)
 		return;
@@ -29,19 +50,21 @@ function displayAds()
 	var compiledTemplate = Hogan.compile(template);
 	
 	//randomize and pick first six
-	var randomizedAdList = shuffleArray(adList);
-	var maxCount = Math.min(randomizedAdList.length, 6);
-	
+	var randomizedSponsoredList = shuffleArray(sponsoredList).slice(0, 3);
+	var randomizedAdList = shuffleArray(adList).slice(0, 3);
+
 	var fragment = document.createDocumentFragment();
-	for(var ii=0; ii<maxCount; ++ii)
+	$(fragment).append(createElementWithString("<div class='w-seo-sponsored'>sponsored</div><hr/>"));
+	for(var ii=0; ii<randomizedSponsoredList.length; ++ii)
+	{
+		var data = randomizedSponsoredList[ii];
+		fragment.appendChild(createElementWithDataObj(data, compiledTemplate));
+	}
+	$(fragment).append(createElementWithString("<hr/>"));
+	for(var ii=0; ii<randomizedAdList.length; ++ii)
 	{
 		var data = randomizedAdList[ii];
-		data.image = getBaseURL() + "img/seo/" + data.image;
-		
-		var renderedTemplate = compiledTemplate.render(data);
-		var divNode = document.createElement("div");
-		divNode.innerHTML = renderedTemplate;
-		fragment.appendChild(divNode);
+		fragment.appendChild(createElementWithDataObj(data, compiledTemplate));
 	}
 	$adHolderDiv.append(fragment);
 }
