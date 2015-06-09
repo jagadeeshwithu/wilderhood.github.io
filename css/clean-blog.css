@@ -564,6 +564,7 @@ a {
 {
 	font-family: Menlo,Monaco,Consolas,"Courier New",monospace;
 	font-size: 13px;
+    opacity: 0.6;
 }
 
 .w-seo-card-holder a

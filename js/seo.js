@@ -54,13 +54,13 @@ function displayAds()
 	var randomizedAdList = shuffleArray(adList).slice(0, 3);
 
 	var fragment = document.createDocumentFragment();
-	$(fragment).append(createElementWithString("<div class='w-seo-sponsored'>sponsored</div><hr/>"));
+	$(fragment).append(createElementWithString("<div class='w-seo-sponsored'>SPONSORED</div><hr/>"));
 	for(var ii=0; ii<randomizedSponsoredList.length; ++ii)
 	{
 		var data = randomizedSponsoredList[ii];
 		fragment.appendChild(createElementWithDataObj(data, compiledTemplate));
 	}
-	$(fragment).append(createElementWithString("<hr/>"));
+	$(fragment).append(createElementWithString("<hr style='padding-top:25px'/>"));
 	for(var ii=0; ii<randomizedAdList.length; ++ii)
 	{
 		var data = randomizedAdList[ii];
