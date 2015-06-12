@@ -6,6 +6,7 @@ author:     "Vinodh Ve"
 tags:       ["Wildlife Destinations", "Monsoon Destinations", "Coorg"]
 comments:   true
 disable-header-img : true
+
 ---
 
 
@@ -14,6 +15,7 @@ disable-header-img : true
 <p>During a morning walk, we saw a huge (10 to 12 cm long) caterpillar munching on a leaf. It was as green as any fresh leaf and had interesting "S" shaped blue and yellow stripes in the body. It had a prickly horn like single projection on its tail. We spent some time observing the beautiful green creature munching its way around the plant, leaving no leaves to survive. It ate so quick, one could not have imagined the capacity of this caterpillar, it was an eating machine!</p>
 
 <img src="{{ site.baseurl }}/img/2015-06-11/Death's-head Hawkmoth's Caterpillar.jpg" alt="Death's-head Hawkmoth's Caterpillar">
+
 <img src="{{ site.baseurl }}/img/2015-06-11/Caterpillar feeding on a leaf.jpg" alt="Caterpillar feeding on a leaf, Coorg">
 
 <p>One of us touched the plant by chance and the caterpillar was alert in a second.  Immediately it changed its posture on the plant. The head freed from the munching leaf, facing upwards and folding all its tiny legs towards its face, it almost looked like it was praying. Back then, it was just another situation where we realized nature is so diverse, even behaviours of each animal varied so greatly and assumed that the change in position was a warning.</p>
