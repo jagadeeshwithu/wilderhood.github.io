@@ -3,11 +3,12 @@ layout:     post
 title:      "A Defensive Posture"
 subtitle:   "Death's-head Hawkmoth's Caterpillar"
 author:     "Vinodh Ve"
-header-img: "img/2015-06-11/Death's-head Hawkmoth's Caterpillar.jpg"
 tags:       ["Wildlife Destinations", "Monsoon Destinations", "Coorg"]
 comments:   true
+disable-header-img : true
 ---
 
+<img src="{{ site.baseurl }}/img/2015-06-11/Death's-head Hawkmoth's Caterpillar.jpg" alt="Death's-head Hawkmoth's Caterpillar">
 
 <p>It was monsoon, sometime during the end of June 2013. We were in Coorg to capture macro photographs as the monsoon offers myriad opportunities. </p>
 
