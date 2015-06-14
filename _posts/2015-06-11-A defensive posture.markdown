@@ -10,7 +10,7 @@ disable-header-img : true
 ---
 <img src="{{ site.baseurl }}/img/2015-06-11/Death's-head Hawkmoth's Caterpillar.jpg" alt="Death's-head Hawkmoth's Caterpillar">
 
-<p>It was monsoon, sometime during the end of June 2013. We were in Coorg to capture macro photographs as the monsoon offers myriad opportunities. </p>
+<p>It was monsoon, sometime during the end of June 2013. We were in <a href="http://www.wilderhood.com/destination/Coorg">Coorg</a> to capture macro photographs as the monsoon offers myriad opportunities. </p>
 
 <p>During a morning walk, we saw a huge (10 to 12 cm long) caterpillar munching on a leaf. It was as green as any fresh leaf and had interesting "S" shaped blue and yellow stripes in the body. It had a prickly horn like single projection on its tail. We spent some time observing the beautiful green creature munching its way around the plant, leaving no leaves to survive. It ate so quick, one could not have imagined the capacity of this caterpillar, it was an eating machine!</p>
 
