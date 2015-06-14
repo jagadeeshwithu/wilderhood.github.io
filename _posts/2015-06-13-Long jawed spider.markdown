@@ -4,7 +4,7 @@ title:      "Long jawed Spider"
 subtitle:   "16 legged love affair"
 author:     "Santhosh Krishnamoorthy"
 header-img: "img/2015-06-13/1.jpg"
-tags:       ["Wildlife", "Macro Photography"]
+tags:       ["Wildlife Destinations", "Monsoon Destinations"]
 comments:   true
 ---
 
