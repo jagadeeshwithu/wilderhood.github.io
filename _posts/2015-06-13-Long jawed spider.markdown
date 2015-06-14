@@ -16,7 +16,7 @@ comments:   true
 
 <p>Among most orb weaver spiders, the males are extremely tiny in size in comparison to the females. Here’s a female and male of another orb weaver spider, known as the signature spider.</p>
 
-<img src="{{ site.baseurl }}/img/2015-06-13/2.jpg" alt="Signature spider, male and female">
+<img src="{{ site.baseurl}}/img/2015-06-13/2.jpg" alt="Signature spider, male and female">
 
 <p>Because of this enormous difference in size, males are quite wary of the females. Thus mating is a very risky business for the male. A small mistake on the male’s part could cost him his life and instead of having the female as his mate, he might end up as a meal on her dinner plate :)</p>
 
@@ -24,7 +24,7 @@ comments:   true
 
 <p>I did read a quote saying that ‘the females of this family are among the horniest and the mating pairs are some of the most daring when it comes to having sex in public’</p>
 
-<img src="{{ site.baseurl }}/img/2015-06-13/3.gif" alt="Long jawed spiders mating">
+<img src="{{ site.baseurl}}/img/2015-06-13/3.jpg" alt="Long jawed spiders mating">
 
 <p>Once the acceptance from the female comes through, the male rushes in, locking his long palps with those of the female’s. Then the ritual begins. The male brings his palp, dipped in his seminal fluid containing the sperms and inserts it into the female’s genitals called the epigynum, which lies on the underside of her abdomen. This is what you see in the image above.</p>
 
