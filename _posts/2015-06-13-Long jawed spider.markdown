@@ -14,7 +14,7 @@ comments:   true
 <p>As I stepped into a narrow stream to photograph a beautiful damsel fly known as the Stream Ruby, I noticed a sudden hustle of activity beneath one of the spider webs that stretched over about a foot or two above the water’s surface. I got closer and saw two spiders, one of them seemed to be pursuing the other. It was a mating pair of long jawed spiders. The one on the left is the male and the female is on the right. The male was following the female, tantalizing her to mate with him.</p>
 
 
-<p>Among most orb weaver spiders, the males are extremely tiny in size in comparison to the females. Here’s a female and male of another orb weaver spider, known as the signature spider. An older post of mine regarding this can be read here – Orb-Weaver Spiders – a bridge to more opportunities</p>
+<p>Among most orb weaver spiders, the males are extremely tiny in size in comparison to the females. Here’s a female and male of another orb weaver spider, known as the signature spider.</p>
 
 <img src="{{ site.baseurl }}/img/2015-06-13/2.jpg" alt="Signature spider, male and female">
 
@@ -30,6 +30,6 @@ comments:   true
 
 <p>This process can occur multiple times over a period of time. After the insemination, the female has the ability to retain the sperm mass outside of her uterus in a specialized structure, spermathecae, until her eggs are ready for fertilization. This enables her to lay several batches of eggs. It has also been observed that the mating process can last as long as ten hours in some of the Tetragnathidae species.</p>
 
-<p>That definitely seemed to be the case here. The spiders were busy, they tok no notice of me leaving them.</p>
+<p>That definitely seemed to be the case here. The spiders were busy, they took no notice of me leaving them.</p>
 
 
