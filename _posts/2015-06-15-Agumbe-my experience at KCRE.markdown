@@ -9,7 +9,7 @@ comments:   true
 ---
 
 
-<p>Agumbe-This word has been in my thoughts since my childhood for the following three reasons:</p>
+<p><a href="http://www.wilderhood.com/destination/Agumbe">Agumbe</a>-This word has been in my thoughts since my childhood for the following three reasons:</p>
 
 <p>1. King Cobras - Wildlife documentaries and newspapers talk about this place as a heaven to find King Cobras in South India. This is mostly because many documentaries have been shot here with the help of Gowri Shankar. The King Cobra is my favourite snake for various reasons,  it is the largest venomous snake in the world, has a noble look and is the only snake to build a nest.</p>
 
@@ -17,11 +17,11 @@ comments:   true
 
 <p>3. Malgudi Days - I used to love watching Malgudi days by RK Narayan. When I was informed that most part of this popular series was shot in Agumbe, I wanted to visit this place, specially to see the young boy Swami's house.</p>
 
-<p>It was in May 2012, when I learned that "Darter" was organising a trip to Agumbe that monsoon, and I started dreaming right away! It was a weekend trip and the bonus was Gowri Shankar would be with us throughout the trip.. The tour itinerary was perfect - I could meet Gowri  to learn about snakes, I could visit Doddamane where the television series Malgudi days was shot, and if I am lucky, I could see a King Cobra too.</p>
+<p>It was in May 2012, when I learned that <a href="http://www.wilderhood.com/organizer/Darter%20Photography">Darter Photography</a> was organising a trip to Agumbe that monsoon, and I started dreaming right away! It was a weekend trip and the bonus was Gowri Shankar would be with us throughout the trip.. The tour itinerary was perfect - I could meet Gowri  to learn about snakes, I could visit Doddamane where the television series Malgudi days was shot, and if I am lucky, I could see a King Cobra too.</p>
 
 <p>I have always been a person who hesitated to visit unknown places after 6 PM, even in the cities I had stayed. I was always worried about 2 things - my short sightedness (without my spectacles I am almost blind) and navigational challenges (I am one of those people who get confused between left and right, asks for detailed directions and still manage to get lost). Therefore, roaming  around in a forest by foot was out of question.</p>
 
-<p>I met Shreeram MV, Co-founder of Darter Photography and the skipper for the Agumbe trip. He filled some confidence in me and reassured that there will be people around to watch each other. That's how  Agumbe began in my life! My first wildlife trip, new to a forest, new to a DSLR camera, new to a tour with unknown people and this excited me beyond measure.</p>
+<p>I met Shreeram MV, Co-founder of <a href="http://www.wilderhood.com/organizer/Darter%20Photography">Darter Photography</a> and the skipper for the Agumbe trip. He filled some confidence in me and reassured that there will be people around to watch each other. That's how  Agumbe began in my life! My first wildlife trip, new to a forest, new to a DSLR camera, new to a tour with unknown people and this excited me beyond measure.</p>
 
 <p>Kalinga Center for Rainforest Ecology (KCRE)</p>
 
@@ -83,6 +83,3 @@ We visit an old Jain Temple in the peak of Kundadhri hills, for a spectacular su
 <p>Many of us do not realize that rainforests are the key source of our life. To live, we need oxygen, drinking water, food, medicine and shelter. Rainforests provide all of these for free. Many rivers like Godavari, Krishna, Cauvery, Thunga, Bhadra, etc., originate from rainforests. Many of the vegetables and fruits like figs, bananas, mangos, cinnamon, coconuts, cocoas, turmeric, ginger, etc., are from rainforests. Rainforests are known to be the largest pharmacy in the world, with immense medicinal plants and finally, all of us know they hold large amounts of Oxygen.</p>
 
 <p>Statistics say that around 80000 acres of rainforests are destroyed per day in the world today. Which means, we will not have any rainforests in next 50-70 years. We may be the last generation to witness these forests, which gives everything we need for a basic living. It is important to understand what is a rainforest, what is the importance of it in our life and how to protect it.KCRE helps in understanding a rainforest, it is just an over-night journey from Bangalore, so do not miss it while you have the opportunity.</p>
-
-
-
