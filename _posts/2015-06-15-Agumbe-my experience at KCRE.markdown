@@ -41,42 +41,42 @@ comments:   true
 
 <p>Sleeping in the tents with the dense forest around, listening to the nightlife of the forest, waking up in the morning with various birds calling feels like being in heaven. One should experience, to relish these moments. In Agumbe, you get misty mornings even in the peak of summer.</p>
 
-<img src="{{ site.baseurl}}/img/2015-06-14/2.jpg" alt="Kalinga Centre for Rainforest Ecology, Agumbe">
+<img src="{{ site.baseurl }}/img/2015-06-14/2.jpg" alt="Kalinga Centre for Rainforest Ecology, Agumbe">
 
 <p>The property is adjacent to a beetle nut plantation. Mornings will be fun filled by watching the active bird life and flying lizards. Birds like woodpeckers, flycatchers, minivets, mynahs, nuthatches, imperial pigeons, etc. are all around the place. While having your morning tea/coffee, you can watch Southern Flyinglizards gliding from tree to tree, after a good bask.</p>
 
-<img src="{{ site.baseurl}}/img/2015-06-14/3.jpg" alt="Morning life at KCRE">
+<img src="{{ site.baseurl }}/img/2015-06-14/3.jpg" alt="Morning life at KCRE">
 
 <p>The main activity there used to be finding life under foot. There are flowers, beautiful fungi, colourful beetles & bugs, snails, caterpillars, plenty of butterflies, varieties of spiders, frogs, etc. We also find snakes here. Nothing to get scared about snakes too, many are non-venomous, we always take enough precautions to not step on any of them and we are also accompanied by herpetologists. It is actually safer to walk here than in the bushes in cities, where you might encounter the "Big4" venomous snakes more easily.</p>
 
-<img src="{{ site.baseurl}}/img/2015-06-14/4.jpg" alt="Macro life at Agumbe">
+<img src="{{ site.baseurl }}/img/2015-06-14/4.jpg" alt="Macro life at Agumbe">
 
 <p>Monsooon is the best time to visit Agumbe, however other seasons will have its own surprises. Agumbe is rightly called the Chirapunji of South India, as it rains almost 12-15 hours a day during monsoon (mid-June to mid-Sep) forming small beautiful waterfalls and streams in the forest.</p>
 
-<img src="{{ site.baseurl}}/img/2015-06-14/5.jpg" alt="The rain">
+<img src="{{ site.baseurl }}/img/2015-06-14/5.jpg" alt="The rain">
 
 <p>Apart from walks, there will be knowledge sharing sessions - about rainforest, about life in rainforest, snakes, snake bites, what to do in snake bite situation, etc., by Gowri Shankar as well as the skipper.</p>
 
-<img src="{{ site.baseurl}}/img/2015-06-14/6.jpg" alt="People and camp at KCRE">
+<img src="{{ site.baseurl }}/img/2015-06-14/6.jpg" alt="People and camp at KCRE">
 
 <p>There is a beautiful stream near by the property and for a medium trek there are 2 hillocks as well. Our schedule usually will be walks up to these points and find life on the way. One should visit this place to see various species these rainforests behold- be it fungi or a frog or a bug or a snake. There are so many different species, and you will be undoubtedly amazed.</p>
 
-<img src="{{ site.baseurl}}/img/2015-06-14/7.jpg" alt="Insect life">
+<img src="{{ site.baseurl }}/img/2015-06-14/7.jpg" alt="Insect life">
 
 <p>Highlight of the schedule are the night trails. After dinner, we take our torches and start the night walk. Night walks are the most productive sessions here as many animals are nocturnal by nature. We get numerous different species of frogs, scorpions, tarantulas, snakes and so on. It is good  time to observe frogs and know about their reproductive strategies- the mating calls with their vocal sacks ballooned, combat fight among males, fertilising and guarding eggs, etc. This is also a good time to spot some of the nocturnal snakes like pit vipers. Pit vipers are venomous, but usually not fatal to humans. They are ambush predators - stay at a place in attacking position and wait for the prey to come closer. They will wait for even ten days at the same place. They have heat-sensing pits between the eyes and nostrils, which helps them to understand the presence of a warm blooded animal. Believe it or not - one of them, the malabar pit viper comes in almost four to five different colour morphs - yellow, green, orange, brown and a mix of green and purple. Apart from reptiles nad amphibians, we have also seen some of the rare mammals like civet cats in the night trails.</p>
 
-<img src="{{ site.baseurl}}/img/2015-06-14/8.jpg" alt="Amphibians and Reptiles">
+<img src="{{ site.baseurl }}/img/2015-06-14/8.jpg" alt="Amphibians and Reptiles">
 
 <p>King Cobras are diurnal snakes,  usually found active during theday. We have seen king cobras in the property as well. As I previously mentioned, there will be people at all times to watch over the campsite. Apart from King Cobras, we usually see malabar pit vipers, hump-nosed pit vipers, beddome's keelback, checkered keelback, beddome's and collared cat snakes, many green vine snakes and bronzeback tree snakes.</p>
 
-<img src="{{ site.baseurl}}/img/2015-06-14/9.jpg" alt="Snakes">
+<img src="{{ site.baseurl }}/img/2015-06-14/9.jpg" alt="Snakes">
 
 <p>One cannot avoid leeches in a rainforest, and Agumbe is the best place to prove it. During monsoon , the bloodthirsty leeches are all over the place. But the good news is, leeches do not spread any infections/diseases. Their bites are not painful, they could be extremely itchy though. Butthey are any day better than mosquitoes and bed bugs - which spreads life-threatening diseases. There are lotions and creams available to avoid leeches and KCRE also provides leech socks during the walks.</p>
 
 <p>Apart from the creepy crawly creatures, we also get an opportunity to explore the life style of Agumbe town. We visit Doddamane, which is where the popular series Malgudi days was shot, this is  now a very old house managedby Kasthuri akka and her mother.
 We visit an old Jain Temple in the peak of Kundadhri hills, for a spectacular sunset or a view of the Agumbe forest. Other potential places of visit are Agumbe ghats, Jogi gundi waterfalls, and Honagappe waterfalls.</p>
 
-<img src="{{ site.baseurl}}/img/2015-06-14/10.jpg" alt="Doddamane and Sunset, Agumbe">
+<img src="{{ site.baseurl }}/img/2015-06-14/10.jpg" alt="Doddamane and Sunset, Agumbe">
 
 <p>Agumbe - This place enables you to connect with nature; understand what is an ecosystem; realize the importance of maintaining eco-balance; realize that we are just a part of this nature and that none of this is created by us.</p>
 
